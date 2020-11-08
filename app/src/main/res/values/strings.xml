@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GestaoFrotas</string>
+    <string name="TextoTelaInicial">Confirme o código enviado via Mensagem de Texto para seu telefone. Caso não tenha recebido, por favor entrar em contato com o responsável de sua empresa.</string>
+    <string name="TextoTelaCelular">Insira o numero de sua linha telefonica</string>
+    <string name="TextoConfirmar">Confirmar</string>
+    <string name="CodigoRecebido">Codigo Recebido:</string>
+    <string name="Sair">Sair</string>
+    <string name="TransporteAtual">Transporte Atual</string>
+    <string name="TransporteFuturo">Transporte Futuro</string>
+    <string name="TransporteRealizado">Transporte Realizado</string>
+    <string name="ContatoResp">Contato com o Responsavel</string>
+
+</resources>

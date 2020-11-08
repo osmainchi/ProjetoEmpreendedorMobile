@@ -1,0 +1,4 @@
+include ':mysql-connector-java-8.0.21'
+include ':mysql-connector-java-5.1.17-bin'
+include ':app'
+rootProject.name = "GestaoFrotas"
